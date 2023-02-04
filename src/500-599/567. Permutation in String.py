@@ -5,8 +5,8 @@ https://leetcode.com/problems/permutation-in-string/
 
 567. Permutation in String
 567. Перестановка в строке
-Easy
 Medium
+Accepted
 """
 
 
