@@ -24,3 +24,7 @@
 | **1071** | Greatest Common Divisor of Strings |   Easy    | 02.02.22 |            **gcd** - Наибольший общий делитель строк             |         gcd          |
 | **1480** |      Running Sum of 1d Array       |   Easy    | 02.02.22 |      i эл-т массива = сумма элементов до него включительно       |        Array         |
 |          |                                    |           |          |                                                                  |                      |
+
+
+242
+438
