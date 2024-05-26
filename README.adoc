@@ -1,0 +1,32 @@
+= LeetCode-Practice
+
+| Всего решенных задач | Попыток |
+|:--------------------:|:-------:|
+|        **10**        | **25**  |
+
+=== Описание
+
+Репозиторий будет наполнен решениями задач с сайта Leetcode на языке Python.
+
+=== Таблица задач
+
+.Таблица решенных задач
+[%autowidth]
+[cols="1,1,1,1,1,1"]
+|===
+|№ |Название |Сложность |Дата |Заметки | Теги
+
+|1
+|Cell in column 2, row 2
+|Cell in column 2, row 2
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+|Cell in column 1, row 4
+
+|2
+|Cell in column 2, row 2
+|Cell in column 2, row 2
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+|Cell in column 1, row 4
+|===
