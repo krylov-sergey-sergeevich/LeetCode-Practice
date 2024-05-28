@@ -1,6 +1,6 @@
-def check(a, b, message=""):
-    if a != b:
-        print("ERROR: " + str(a) + " != " + str(b) + " " + message)
+def check(result, expected, message=""):
+    if result != expected:
+        print("ERROR: " + str(result) + " != " + str(expected) + " " + message)
     else:
-        print("Success: " + str(a) + " == " + str(b))
+        print("Success: " + str(result) + " == " + str(expected))
     print()
